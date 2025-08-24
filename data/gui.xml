@@ -1113,6 +1113,14 @@
             pointshape="floodfill"
             tracepolicy="accumulate"
             />
+      <tool id="gradient"
+            text="Gradient Tool"
+            ink="paint"
+            controller="two_points"
+            pointshape="brush"
+            intertwine="as_lines"
+            tracepolicy="last"
+            />
     </group>
 
     <group id="perfect_traces" text="Perfect Traces">

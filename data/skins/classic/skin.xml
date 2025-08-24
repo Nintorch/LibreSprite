@@ -156,6 +156,7 @@
     <tool id="slice"                    x="224" y="32" w="16" h="16" />
 
     <tool id="paint_bucket"             x="144" y="48" w="16" h="16" />
+    <tool id="gradient"                 x="192" y="48" w="16" h="16" />
 
     <tool id="line"                     x="144" y="64" w="16" h="16" />
     <tool id="curve"                    x="160" y="64" w="16" h="16" />
